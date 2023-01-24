@@ -1,10 +1,10 @@
 
 ## Olá sou o Tales ✌️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tales-melo-1ab5b6177/](https://www.linkedin.com/in/tales-de-melo/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tales-de-melo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talesdemelo_/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://l.instagram.com/?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D5515981298888%26text%3DOl%25C3%25A1%2521%2BGostaria%2Bde%2Bsaber%2Bmais%2Bsobre%2Ba%2Bconsulta%2Bnutricional&e=AT0ZEqa3_KaSKE2pqi6f0KGO8Nl0mfBWag7OFTjcnrnF9-Eghql5F_nrWAGwRSGzyjc0Ab25I-XSnjAnZY0tdhE-mpz3bEF8F5JaSJh4NhUDvQ2LauO78A)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](melotales@hotmail.com/)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 
 ![Tales GitHub stats](https://github-readme-stats.vercel.app/api?username=talesco098&show_icons=true&theme=tokyonight)
 
